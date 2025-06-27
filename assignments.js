@@ -1,4 +1,5 @@
-//
+/* 
+Dawodu Ayobami Emmanuel Javascript codes*/
 let age = prompt("Enter your age:");
 age = Number(age); // Convert input from string to number
 
